@@ -2,3 +2,5 @@
 
 git github öğreniyorum
 
+ilk repository
+

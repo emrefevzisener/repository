@@ -1,3 +1,4 @@
 # repository
 
-git github
+git github öğreniyorum
+
